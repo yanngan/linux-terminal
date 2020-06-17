@@ -1,0 +1,8 @@
+done
+echo "
+echo "hi os" | wc -c
+kkkk 2> E
+kkkk 2> Z
+ls
+ls +w 2> W
+ls +w 2> Wkkkk 2> Z
